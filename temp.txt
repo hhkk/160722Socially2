@@ -1,0 +1,16 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 362A-2207
+
+ Directory of C:\utd\160722Socially2
+
+07/22/2016  02:20 AM    <DIR>          .
+07/22/2016  02:20 AM    <DIR>          ..
+07/22/2016  02:18 AM               395 .gitattributes
+07/22/2016  02:17 AM                13 .gitignore
+07/22/2016  02:17 AM    <DIR>          .meteor
+07/22/2016  02:17 AM    <DIR>          client
+07/22/2016  02:17 AM               156 package.json
+07/22/2016  02:17 AM    <DIR>          server
+07/22/2016  02:20 AM                 0 temp.txt
+               4 File(s)            564 bytes
+               5 Dir(s)  14,455,853,056 bytes free
